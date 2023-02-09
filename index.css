@@ -8,10 +8,10 @@
     font-size: 30px;
     overflow: hidden;
     white-space: nowrap;
-    animation: typing 5s steps(22) 1s infinite alternate;
+    animation: typing 5s steps(25) 1s infinite alternate;
 }
 #typing span{
-color:rgb(225, 238, 39);}
+color:rgb(225, 248, 39);}
 
 #crow {
     float: left;
@@ -41,7 +41,7 @@ color: white;
 
 
 #title{
-    background-color: rgb(0, 5, 5);
+    background-color: rgb(0, 6, 5);
 }
 body{
     font-family: 'Times New Roman',serif;
