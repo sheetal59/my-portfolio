@@ -8,10 +8,10 @@
     font-size: 40px;
     overflow: hidden;
     white-space: nowrap;
-    animation: typing 5s steps(35) 1s infinite alternate;
+    animation: typing 5s steps(45) 2s infinite alternate;
 }
 #typing span{
-color:rgb(225, 148, 39);}
+color:rgb(215, 148, 39);}
 
 #crow {
     float: left;
